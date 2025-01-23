@@ -9,10 +9,10 @@ Este repositório contém dois jogos simples em Python onde o jogador precisa ad
 - **Como Jogar**: O jogador recebe mensagens indicando se o número chutado é maior ou menor que o número secreto.
 - **Como Executar**:
   1. Certifique-se de ter o Python instalado.
-  2. Navegue até a pasta onde o arquivo `adivinhacao.py` está localizado.
+  2. Navegue até a pasta onde o arquivo `adivinhador.py` (ou o nome correto do seu arquivo) está localizado.
   3. Execute o jogo no terminal:
      ```bash
-     python adivinhacao.py
+     python adivinhador.py
      ```
 - **Tecnologias Utilizadas**:
   - Python
@@ -41,4 +41,4 @@ Este repositório contém dois jogos simples em Python onde o jogador precisa ad
 1. Certifique-se de ter o Python instalado no seu computador.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/SeuNome/jogo-adivinhacao-numero.git
+   git clone https://github.com/jessicavaladares/adivinhador-numero.git
