@@ -41,4 +41,4 @@ Este repositório contém dois jogos simples em Python onde o jogador precisa ad
 1. Certifique-se de ter o Python instalado no seu computador.
 2. Clone este repositório:
    ```bash
-   git clone https://github.com/jessicavaladares/adivinhador-numero.git
+   git clone https://github.com/jessicavaladares/adivinhador-numeros.git
